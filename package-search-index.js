@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.samju.hospital"},{"l":"com.samju.hospital.controller"},{"l":"com.samju.hospital.entity"},{"l":"com.samju.hospital.repository"},{"l":"com.samju.hospital.service"}];updateSearchResults();

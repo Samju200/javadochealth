@@ -1,0 +1,5 @@
+com.samju.hospital
+com.samju.hospital.controller
+com.samju.hospital.entity
+com.samju.hospital.repository
+com.samju.hospital.service
